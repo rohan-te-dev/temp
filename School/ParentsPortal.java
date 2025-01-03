@@ -23,6 +23,7 @@ public class ParentsPortal {
         if (pss == pin) {
             System.out.println("Invalid Pin Entered !");
             Toolkit.getDefaultToolkit().beep(); // to alert user
+            return;
         } else {
 
             while (true) {

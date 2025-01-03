@@ -3,3 +3,5 @@ Teacher: *Rohan* Subject: *Phy* Class: *6*
 Teacher: *Ali* Subject: *Bio* Class: *8*
 Teacher: *Omar* Subject: *Comp Sci* Class: *10*
 Teacher: *Abdullah* Subject: *Geography* Class: *12*
+Teacher: *Azfar Sohail* Subject: *ACCA* Class: *12*
+Teacher: *Usman Ghani* Subject: *BBA* Class: *13*

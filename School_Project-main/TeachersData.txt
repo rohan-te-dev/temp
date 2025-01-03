@@ -1,5 +1,0 @@
-Teacher: *Hassan* Subject: *math* Class: *6*
-Teacher: *Rohan* Subject: *Phy* Class: *6*
-Teacher: *Ali* Subject: *Bio* Class: *8*
-Teacher: *Omar* Subject: *Comp Sci* Class: *10*
-Teacher: *Abdullah* Subject: *Geography* Class: *12*

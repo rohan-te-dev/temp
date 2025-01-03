@@ -1,5 +1,0 @@
-Student: Rohan Roll.No: 369 Class: 9
-Student: Sania Roll.No: 985 Class: 7
-Student: Eman Roll.No: 563 Class: 1
-Student: Hadi Roll.No: 856 Class: 9
-Student: Muhammad Sami Roll.No: 2356 Class: 9
